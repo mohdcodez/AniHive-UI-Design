@@ -9,19 +9,16 @@ AniHive is a modern **anime streaming website UI** designed to make anime watchi
 - 📁 **Saved Show Page** – A personalized list of bookmarked anime.  
 - ▶️ **Show Player Page** – A sleek and immersive video player for anime streaming.  
 
-## 📸 Screenshots  
-
-### 🔐 Login Page  
-![Login Page](assets/login-page.png)  
+## 📸 Screenshots    
 
 ### 🏠 Landing Page  
-![Landing Page](assets/landing-page.png)  
+![Landing Page](6_CompleteLanding.png)  
 
 ### 📁 Saved Show Page  
-![Saved Show Page](assets/saved-show-page.png)  
+![Saved Show Page](7_SavedShows.png)  
 
 ### ▶️ Show Player Page  
-![Show Player Page](assets/show-player-page.png)  
+![Show Player Page](8_VideoPlayerPage.png)  
 
 ## 🎨 Design Approach  
 
